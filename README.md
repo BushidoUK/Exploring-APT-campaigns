@@ -13,3 +13,5 @@ Further investigation in to APT campaigns disclosed by private security firms an
 ☣ [Virus Total map of EvilCorp samples of WastedLocker and Cobalt Strike](https://www.virustotal.com/graph/embed/g6b0bb149257146f999c3ebae05c9e69ea22fdd21b4ff4921950fffbacc992ef6)
 
 ☣ [Virus Total map of APT17 malware campaign](https://www.virustotal.com/graph/embed/g0cfbac71aa474eabbd0167470cf3d0893ee4898f3b2c4053938d18e2ebc630a9)
+
+☣ [Virus Total map of Cloud Atlas maldocs](https://www.virustotal.com/graph/embed/gdecfaf4fd8ee41098b920bbaa31c2122e4845672562a4cf7b2a34cdac02a529e)
