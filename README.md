@@ -17,3 +17,5 @@ Further investigation in to APT campaigns disclosed by private security firms an
 ☣ [Virus Total map of Cloud Atlas maldocs](https://www.virustotal.com/graph/embed/gdecfaf4fd8ee41098b920bbaa31c2122e4845672562a4cf7b2a34cdac02a529e)
 
 ☣ [OTX Pulse of APT_Mal_HIDDENCOBRA_Rifdoor](https://otx.alienvault.com/pulse/5f876fd32250ee634cf9170a)
+
+☣ [Virus Total map of CozyDuke](https://www.virustotal.com/graph/embed/gf1bc3da13d854187b01ba1b35aeac34146589cd9b9a1444b9ee5dc2eef7d5b8b)
