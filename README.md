@@ -21,3 +21,5 @@ Further investigation in to APT campaigns disclosed by private security firms an
 ☣ [Virus Total map of CozyDuke](https://www.virustotal.com/graph/embed/gf1bc3da13d854187b01ba1b35aeac34146589cd9b9a1444b9ee5dc2eef7d5b8b)
 
 ☣ [Virus Total map of FIN7/Carbanak](https://www.virustotal.com/graph/embed/g3face3ff366341dc831c3bf4fc6a367a36a4eda7a5f545efa4cd3756e432d6a4)
+
+☣ [Virus Total map of APT29's WellMess and WellMail](https://www.virustotal.com/graph/embed/gb7950409bc654bdfbfa44404ce7b95287ad97170087146d99b0ea63fef8b341b)
