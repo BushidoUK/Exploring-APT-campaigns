@@ -24,4 +24,4 @@ Further investigation in to APT campaigns disclosed by private security firms an
 
 ☣ [Virus Total map of APT29's WellMess and WellMail](https://www.virustotal.com/graph/embed/gb7950409bc654bdfbfa44404ce7b95287ad97170087146d99b0ea63fef8b341b)
 
-☣ [Virus Total map APT31 Covid-19 vaccine campaign](https://www.virustotal.com/graph/embed/gf59dadba366d41c481152032e624fd797c0a43d4aac645c5883081c2fde925ed)
+☣ [Virus Total map of APT31 Covid-19 vaccine campaign](https://www.virustotal.com/graph/embed/gf59dadba366d41c481152032e624fd797c0a43d4aac645c5883081c2fde925ed)
