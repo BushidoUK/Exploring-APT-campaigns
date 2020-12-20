@@ -29,3 +29,5 @@ Further investigation in to APT campaigns disclosed by private security firms an
 ☣ [Virus Total map of Kimsuky targeting Vaccine Developers](https://www.virustotal.com/graph/embed/g891f1281d31d4562818d2060532f2a343c87b810a74d426391abb77bce807dae)
 
 ☣ [Virus Total map of SilentLibrarian targeting Universities globally](https://www.virustotal.com/graph/embed/gab9aed0f1f694775bde09b21e8b006fa0a9129ce5685466aaca5e5d511e467a7)
+
+☣ [Virus Total map of COVID-19 maldocs and 'TrickyMouse' backdoor targeting Ukraine](https://www.virustotal.com/graph/embed/g8feacb02b2a1481bbf599860f6f85526b234b7f3f53547668172c7e9b6c0b90d)
