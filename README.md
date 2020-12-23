@@ -31,3 +31,5 @@ Further investigation in to APT campaigns disclosed by private security firms an
 ☣ [Virus Total map of SilentLibrarian targeting Universities globally](https://www.virustotal.com/graph/embed/gab9aed0f1f694775bde09b21e8b006fa0a9129ce5685466aaca5e5d511e467a7)
 
 ☣ [Virus Total map of COVID-19 maldocs and 'TrickyMouse' backdoor targeting Ukraine](https://www.virustotal.com/graph/embed/g8feacb02b2a1481bbf599860f6f85526b234b7f3f53547668172c7e9b6c0b90d)
+
+☣ [Virus Total map of Evilnum campaign](https://www.virustotal.com/graph/embed/g69785ffc975d4092ab893a22cda9d599375b0095850c4619bb1d389ad9d6d9ad)
