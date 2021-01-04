@@ -33,3 +33,5 @@ Further investigation in to APT campaigns disclosed by private security firms an
 ☣ [Virus Total map of COVID-19 maldocs and 'TrickyMouse' backdoor targeting Ukraine](https://www.virustotal.com/graph/embed/g8feacb02b2a1481bbf599860f6f85526b234b7f3f53547668172c7e9b6c0b90d)
 
 ☣ [Virus Total map of Evilnum campaign](https://www.virustotal.com/graph/embed/g69785ffc975d4092ab893a22cda9d599375b0095850c4619bb1d389ad9d6d9ad)
+
+☣ [Virus Total map of a SideWinder espionage campaign](https://www.virustotal.com/graph/embed/gf7e67ca10a444294b460a5bc6eab02875f5b2be34515476399413306ddd0d32f)
