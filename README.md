@@ -35,3 +35,5 @@ Further investigation in to APT campaigns disclosed by private security firms an
 ☣ [Virus Total map of Evilnum campaign](https://www.virustotal.com/graph/embed/g69785ffc975d4092ab893a22cda9d599375b0095850c4619bb1d389ad9d6d9ad)
 
 ☣ [Virus Total map of a SideWinder espionage campaign](https://www.virustotal.com/graph/embed/gf7e67ca10a444294b460a5bc6eab02875f5b2be34515476399413306ddd0d32f)
+
+☣ [Virus Total map of FIN7 JSSLoader campaign](https://www.virustotal.com/graph/embed/gaa8bbf3d78f24573ac68c4aa5f2ce6d9984514832e5740d0bcf52b9fef5ebc08)
