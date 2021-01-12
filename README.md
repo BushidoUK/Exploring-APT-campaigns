@@ -37,3 +37,5 @@ Further investigation in to APT campaigns disclosed by private security firms an
 ☣ [Virus Total map of a SideWinder espionage campaign](https://www.virustotal.com/graph/embed/gf7e67ca10a444294b460a5bc6eab02875f5b2be34515476399413306ddd0d32f)
 
 ☣ [Virus Total map of FIN7 JSSLoader campaign](https://www.virustotal.com/graph/embed/gaa8bbf3d78f24573ac68c4aa5f2ce6d9984514832e5740d0bcf52b9fef5ebc08)
+
+☣ [Virus Total map of MuddyWater campaign in MENA](https://www.virustotal.com/graph/embed/g9c0fcdff831b4de8b7133befaf2998d0825701aff39c400b9c2746981d8b6c76)
