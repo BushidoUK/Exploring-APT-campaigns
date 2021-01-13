@@ -1,5 +1,7 @@
 # Exploring-APT-campaigns
 
+[https://otx.alienvault.com/user/BushidoToken/](https://otx.alienvault.com/user/BushidoToken/pulses)
+
 ☣ [OTX Pulse of APT_Mal_HIDDENCOBRA_Rifdoor](https://otx.alienvault.com/pulse/5f876fd32250ee634cf9170a)
 
 ☣ [OTX Pulse of GADOLINIUM email addresses overlapping with ACSC advisory IOCs](https://otx.alienvault.com/pulse/5f706b400a4598d5ae7c7a20/)
