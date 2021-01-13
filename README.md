@@ -39,3 +39,5 @@ Further investigation in to APT campaigns disclosed by private security firms an
 ☣ [Virus Total map of FIN7 JSSLoader campaign](https://www.virustotal.com/graph/embed/gaa8bbf3d78f24573ac68c4aa5f2ce6d9984514832e5740d0bcf52b9fef5ebc08)
 
 ☣ [Virus Total map of MuddyWater campaign in MENA](https://www.virustotal.com/graph/embed/g9c0fcdff831b4de8b7133befaf2998d0825701aff39c400b9c2746981d8b6c76)
+
+☣ [Virus Total map of WIZARD SPIDER Trickbot campaign leveraging Subcard](https://www.virustotal.com/graph/embed/g251a9965c77e47008e21aeafa8fc4152471dd51d63e94577927304538bb39d61)
