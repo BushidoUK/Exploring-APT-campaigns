@@ -47,3 +47,5 @@ Further investigation in to APT campaigns disclosed by private security firms an
 ☣ [Virus Total map of MuddyWater campaign in MENA](https://www.virustotal.com/graph/embed/g9c0fcdff831b4de8b7133befaf2998d0825701aff39c400b9c2746981d8b6c76)
 
 ☣ [Virus Total map of WIZARD SPIDER Trickbot campaign leveraging Subcard](https://www.virustotal.com/graph/embed/g251a9965c77e47008e21aeafa8fc4152471dd51d63e94577927304538bb39d61)
+
+☣ [Virus Total map of Chimera APT campaign](https://www.virustotal.com/graph/embed/g9902addf25ec4fd3a4578ca012facaee24a1ac8bfcef4673b9dd915cebfd10f2)
