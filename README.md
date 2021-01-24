@@ -50,6 +50,8 @@ Further investigation in to APT campaigns disclosed by private security firms an
 
 ☣ [Virus Total map of WIZARD SPIDER Trickbot yas1, tot6, lib6](https://www.virustotal.com/graph/embed/g7cdb83f0a5f94159b99c4670da29761f60b1a5ed5e224281baa38ba64aabd555)
 
+☣ [Virus Total map of Meyhod Skimmer](https://www.virustotal.com/graph/embed/g5395cf9f801c419f8a1a623062dfb25d8cc2aa31f2e140ab9c38bacffa80e03c)
+
 ☣ [Virus Total map of Chimera APT campaign](https://www.virustotal.com/graph/embed/g9902addf25ec4fd3a4578ca012facaee24a1ac8bfcef4673b9dd915cebfd10f2)
 
 ☣ [Virus Total map of Aggah botnet campaign](https://www.virustotal.com/graph/embed/g3e4827b2cdbb4d99832eba13e264bfb6b6ee1859142648c192552253a8a092cd)
