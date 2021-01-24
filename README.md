@@ -49,3 +49,5 @@ Further investigation in to APT campaigns disclosed by private security firms an
 ☣ [Virus Total map of WIZARD SPIDER Trickbot campaign leveraging Subcard](https://www.virustotal.com/graph/embed/g251a9965c77e47008e21aeafa8fc4152471dd51d63e94577927304538bb39d61)
 
 ☣ [Virus Total map of Chimera APT campaign](https://www.virustotal.com/graph/embed/g9902addf25ec4fd3a4578ca012facaee24a1ac8bfcef4673b9dd915cebfd10f2)
+
+☣ [Virus Total map of Aggah botnet campaign](https://www.virustotal.com/graph/embed/g3e4827b2cdbb4d99832eba13e264bfb6b6ee1859142648c192552253a8a092cd)
