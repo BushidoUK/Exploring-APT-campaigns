@@ -55,3 +55,5 @@ Further investigation in to APT campaigns disclosed by private security firms an
 ☣ [Virus Total map of Chimera APT campaign](https://www.virustotal.com/graph/embed/g9902addf25ec4fd3a4578ca012facaee24a1ac8bfcef4673b9dd915cebfd10f2)
 
 ☣ [Virus Total map of Aggah botnet campaign](https://www.virustotal.com/graph/embed/g3e4827b2cdbb4d99832eba13e264bfb6b6ee1859142648c192552253a8a092cd)
+
+☣ [Virus Total map of AZORult JNLP campaigns](https://www.virustotal.com/graph/embed/g045d59e952d64c63973a83630631578b3c535b1b48b0491ead415514e2f73a81)
