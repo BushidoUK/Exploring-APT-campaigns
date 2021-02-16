@@ -59,3 +59,5 @@ Further investigation in to APT campaigns disclosed by private security firms an
 ☣ [Virus Total map of AZORult JNLP campaigns](https://www.virustotal.com/graph/embed/g045d59e952d64c63973a83630631578b3c535b1b48b0491ead415514e2f73a81)
 
 ☣ [Virus Total map of North Korean APT using Amadey Trojan](https://www.virustotal.com/graph/embed/gbe67b49137a1421fadec49108002b34ad9e2dbe79c8643d1a381f17f7d577dce)
+
+☣ [Virus Total map of Sandworm APT campaigns](https://www.virustotal.com/graph/embed/g0a95f984b46748e4844a7aefeb656a6768609568e71348529873f2ed144c6a8f)
