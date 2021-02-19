@@ -63,3 +63,5 @@ Further investigation in to APT campaigns disclosed by private security firms an
 ☣ [Virus Total map of Sandworm APT campaigns](https://www.virustotal.com/graph/embed/g0a95f984b46748e4844a7aefeb656a6768609568e71348529873f2ed144c6a8f)
 
 ☣ [Virus Total map of FIN7/Carbanak campaign](https://www.virustotal.com/graph/embed/gd67466763d244706a0f99212c4f92a1fa643d2c7d21a434e9d3df00d52ecc649)
+
+☣ [Virus Total map of GINP Android banking Trojan](https://www.virustotal.com/graph/embed/gfa5d4c2327f1495abac77fb017548bf1df2361b23446451abf53bc7c95406e81)
