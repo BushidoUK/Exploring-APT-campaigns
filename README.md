@@ -65,3 +65,5 @@ Further investigation in to APT campaigns disclosed by private security firms an
 ☣ [Virus Total map of FIN7/Carbanak campaign](https://www.virustotal.com/graph/embed/gd67466763d244706a0f99212c4f92a1fa643d2c7d21a434e9d3df00d52ecc649)
 
 ☣ [Virus Total map of GINP Android banking Trojan](https://www.virustotal.com/graph/embed/gfa5d4c2327f1495abac77fb017548bf1df2361b23446451abf53bc7c95406e81)
+
+☣ [Virus Total map of BazarLoader campaign against Medical and PwC](https://www.virustotal.com/graph/embed/g91679685d1cc42659296e35a564b42a144fb48d2f708446cab12285f67137920)
