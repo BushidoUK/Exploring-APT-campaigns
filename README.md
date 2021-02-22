@@ -67,3 +67,5 @@ Further investigation in to APT campaigns disclosed by private security firms an
 ☣ [Virus Total map of GINP Android banking Trojan](https://www.virustotal.com/graph/embed/gfa5d4c2327f1495abac77fb017548bf1df2361b23446451abf53bc7c95406e81)
 
 ☣ [Virus Total map of BazarLoader campaign against Medical and PwC](https://www.virustotal.com/graph/embed/g91679685d1cc42659296e35a564b42a144fb48d2f708446cab12285f67137920)
+
+☣ [Virus Total map of Downdelph APT28 campaign against Kazakh mining sector](https://www.virustotal.com/graph/embed/g3a7d08a530f14a3190996a42ecf04d63a2773b92b03e4164853d166a9c990fb2)
