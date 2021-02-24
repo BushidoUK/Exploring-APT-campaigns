@@ -2,17 +2,12 @@
 
 [https://otx.alienvault.com/user/BushidoToken/](https://otx.alienvault.com/user/BushidoToken/pulses)
 
-☣ [OTX Pulse of APT_Mal_HIDDENCOBRA_Rifdoor](https://otx.alienvault.com/pulse/5f876fd32250ee634cf9170a)
-
-☣ [OTX Pulse of GADOLINIUM email addresses overlapping with ACSC advisory IOCs](https://otx.alienvault.com/pulse/5f706b400a4598d5ae7c7a20/)
-
-```
-
-```
-
-Further investigation in to APT campaigns disclosed by private security firms and security agencies
-
 [https://www.virustotal.com/gui/user/BushidoToken/](https://www.virustotal.com/gui/user/BushidoToken/)
+
+```
+
+```
+### Espionage/intelligence gathering campaigns
 
 ☣ [Virus Total map of Machete APT / APT-C-43 activity](https://www.virustotal.com/graph/embed/g9ba526c6cdb247bd91365943890df6ffa653cb676d7b4456af848a760ba8daa8)
 
@@ -49,6 +44,10 @@ Further investigation in to APT campaigns disclosed by private security firms an
 ☣ [Virus Total map of Downdelph APT28 campaign against Kazakh mining sector](https://www.virustotal.com/graph/embed/g3a7d08a530f14a3190996a42ecf04d63a2773b92b03e4164853d166a9c990fb2)
 
 ☣ [Virus Total map of Gamaredon Group campaign](https://www.virustotal.com/graph/embed/gbda3c737dd0c4baca51198946e56f711cca6109212264b75a9af50efdfbc08cb)
+
+```
+
+```
 
 ### Crimeware/eCrime campaigns:
 
