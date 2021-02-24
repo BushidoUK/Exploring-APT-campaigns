@@ -18,15 +18,9 @@ Further investigation in to APT campaigns disclosed by private security firms an
 
 ☣ [VirusTotal map of Lazarus, CryptoCore, LeeryTurtle IOC overlaps](https://www.virustotal.com/graph/embed/g01e56275710e4122aef7fd509cb855b90f7d43a7478042ae866b894e35be2562)
 
-☣ [Virus Total map of EvilCorp samples of WastedLocker and Cobalt Strike](https://www.virustotal.com/graph/embed/g6b0bb149257146f999c3ebae05c9e69ea22fdd21b4ff4921950fffbacc992ef6)
-
 ☣ [Virus Total map of APT17 malware campaign](https://www.virustotal.com/graph/embed/g0cfbac71aa474eabbd0167470cf3d0893ee4898f3b2c4053938d18e2ebc630a9)
 
 ☣ [Virus Total map of Cloud Atlas maldocs](https://www.virustotal.com/graph/embed/gdecfaf4fd8ee41098b920bbaa31c2122e4845672562a4cf7b2a34cdac02a529e)
-
-☣ [Virus Total map of ZLoader & Cobalt Strike](https://www.virustotal.com/graph/embed/gf1bc3da13d854187b01ba1b35aeac34146589cd9b9a1444b9ee5dc2eef7d5b8b)
-
-☣ [Virus Total map of FIN7/Carbanak](https://www.virustotal.com/graph/embed/g3face3ff366341dc831c3bf4fc6a367a36a4eda7a5f545efa4cd3756e432d6a4)
 
 ☣ [Virus Total map of APT29's WellMess and WellMail](https://www.virustotal.com/graph/embed/gb7950409bc654bdfbfa44404ce7b95287ad97170087146d99b0ea63fef8b341b)
 
@@ -52,10 +46,6 @@ Further investigation in to APT campaigns disclosed by private security firms an
 
 ☣ [Virus Total map of Sandworm APT campaigns](https://www.virustotal.com/graph/embed/g0a95f984b46748e4844a7aefeb656a6768609568e71348529873f2ed144c6a8f)
 
-☣ [Virus Total map of FIN7/Carbanak campaign](https://www.virustotal.com/graph/embed/gd67466763d244706a0f99212c4f92a1fa643d2c7d21a434e9d3df00d52ecc649)
-
-☣ [Virus Total map of BazarLoader campaign against Medical and PwC](https://www.virustotal.com/graph/embed/g91679685d1cc42659296e35a564b42a144fb48d2f708446cab12285f67137920)
-
 ☣ [Virus Total map of Downdelph APT28 campaign against Kazakh mining sector](https://www.virustotal.com/graph/embed/g3a7d08a530f14a3190996a42ecf04d63a2773b92b03e4164853d166a9c990fb2)
 
 ☣ [Virus Total map of Gamaredon Group campaign](https://www.virustotal.com/graph/embed/gbda3c737dd0c4baca51198946e56f711cca6109212264b75a9af50efdfbc08cb)
@@ -63,6 +53,8 @@ Further investigation in to APT campaigns disclosed by private security firms an
 ### Crimeware/eCrime campaigns:
 
 ☣ [Virus Total map of FIN7 JSSLoader campaign](https://www.virustotal.com/graph/embed/gaa8bbf3d78f24573ac68c4aa5f2ce6d9984514832e5740d0bcf52b9fef5ebc08)
+
+☣ [Virus Total map of FIN7/Carbanak campaign](https://www.virustotal.com/graph/embed/gd67466763d244706a0f99212c4f92a1fa643d2c7d21a434e9d3df00d52ecc649)
 
 ☣ [Virus Total map of Evilnum campaign](https://www.virustotal.com/graph/embed/g69785ffc975d4092ab893a22cda9d599375b0095850c4619bb1d389ad9d6d9ad)
 
@@ -75,3 +67,11 @@ Further investigation in to APT campaigns disclosed by private security firms an
 ☣ [Virus Total map of GINP Android botnet](https://www.virustotal.com/graph/embed/gfa5d4c2327f1495abac77fb017548bf1df2361b23446451abf53bc7c95406e81)
 
 ☣ [Virus Total map of Meyhod Skimmer](https://www.virustotal.com/graph/embed/g5395cf9f801c419f8a1a623062dfb25d8cc2aa31f2e140ab9c38bacffa80e03c)
+
+☣ [Virus Total map of BazarLoader campaign against Medical and PwC](https://www.virustotal.com/graph/embed/g91679685d1cc42659296e35a564b42a144fb48d2f708446cab12285f67137920)
+
+☣ [Virus Total map of ZLoader & Cobalt Strike](https://www.virustotal.com/graph/embed/gf1bc3da13d854187b01ba1b35aeac34146589cd9b9a1444b9ee5dc2eef7d5b8b)
+
+☣ [Virus Total map of FIN7/Carbanak](https://www.virustotal.com/graph/embed/g3face3ff366341dc831c3bf4fc6a367a36a4eda7a5f545efa4cd3756e432d6a4)
+
+☣ [Virus Total map of EvilCorp samples of WastedLocker and Cobalt Strike](https://www.virustotal.com/graph/embed/g6b0bb149257146f999c3ebae05c9e69ea22fdd21b4ff4921950fffbacc992ef6)
