@@ -59,9 +59,9 @@
 
 ☣ [Virus Total map of Evilnum campaign](https://www.virustotal.com/graph/embed/g69785ffc975d4092ab893a22cda9d599375b0095850c4619bb1d389ad9d6d9ad)
 
-☣ [Virus Total map of WIZARD SPIDER Trickbot campaign leveraging Subcard](https://www.virustotal.com/graph/embed/g251a9965c77e47008e21aeafa8fc4152471dd51d63e94577927304538bb39d61)
+☣ [Virus Total map of WizardSpider Trickbot campaign leveraging Subcard](https://www.virustotal.com/graph/embed/g251a9965c77e47008e21aeafa8fc4152471dd51d63e94577927304538bb39d61)
 
-☣ [Virus Total map of WIZARD SPIDER Trickbot yas1, tot6, lib6](https://www.virustotal.com/graph/embed/g7cdb83f0a5f94159b99c4670da29761f60b1a5ed5e224281baa38ba64aabd555)
+☣ [Virus Total map of WizardSpider Trickbot yas1, tot6, lib6](https://www.virustotal.com/graph/embed/g7cdb83f0a5f94159b99c4670da29761f60b1a5ed5e224281baa38ba64aabd555)
 
 ☣ [Virus Total map of BazarLoader campaign against Medical and PwC](https://www.virustotal.com/graph/embed/g91679685d1cc42659296e35a564b42a144fb48d2f708446cab12285f67137920)
 
