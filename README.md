@@ -38,19 +38,9 @@ Further investigation in to APT campaigns disclosed by private security firms an
 
 ☣ [Virus Total map of COVID-19 maldocs and 'TrickyMouse' backdoor targeting Ukraine](https://www.virustotal.com/graph/embed/g8feacb02b2a1481bbf599860f6f85526b234b7f3f53547668172c7e9b6c0b90d)
 
-☣ [Virus Total map of Evilnum campaign](https://www.virustotal.com/graph/embed/g69785ffc975d4092ab893a22cda9d599375b0095850c4619bb1d389ad9d6d9ad)
-
 ☣ [Virus Total map of SideWinder espionage campaign](https://www.virustotal.com/graph/embed/gf7e67ca10a444294b460a5bc6eab02875f5b2be34515476399413306ddd0d32f)
 
-☣ [Virus Total map of FIN7 JSSLoader campaign](https://www.virustotal.com/graph/embed/gaa8bbf3d78f24573ac68c4aa5f2ce6d9984514832e5740d0bcf52b9fef5ebc08)
-
 ☣ [Virus Total map of MuddyWater campaign in MENA](https://www.virustotal.com/graph/embed/g9c0fcdff831b4de8b7133befaf2998d0825701aff39c400b9c2746981d8b6c76)
-
-☣ [Virus Total map of WIZARD SPIDER Trickbot campaign leveraging Subcard](https://www.virustotal.com/graph/embed/g251a9965c77e47008e21aeafa8fc4152471dd51d63e94577927304538bb39d61)
-
-☣ [Virus Total map of WIZARD SPIDER Trickbot yas1, tot6, lib6](https://www.virustotal.com/graph/embed/g7cdb83f0a5f94159b99c4670da29761f60b1a5ed5e224281baa38ba64aabd555)
-
-☣ [Virus Total map of Meyhod Skimmer](https://www.virustotal.com/graph/embed/g5395cf9f801c419f8a1a623062dfb25d8cc2aa31f2e140ab9c38bacffa80e03c)
 
 ☣ [Virus Total map of Chimera APT campaign](https://www.virustotal.com/graph/embed/g9902addf25ec4fd3a4578ca012facaee24a1ac8bfcef4673b9dd915cebfd10f2)
 
@@ -64,10 +54,24 @@ Further investigation in to APT campaigns disclosed by private security firms an
 
 ☣ [Virus Total map of FIN7/Carbanak campaign](https://www.virustotal.com/graph/embed/gd67466763d244706a0f99212c4f92a1fa643d2c7d21a434e9d3df00d52ecc649)
 
-☣ [Virus Total map of GINP Android banking Trojan](https://www.virustotal.com/graph/embed/gfa5d4c2327f1495abac77fb017548bf1df2361b23446451abf53bc7c95406e81)
-
 ☣ [Virus Total map of BazarLoader campaign against Medical and PwC](https://www.virustotal.com/graph/embed/g91679685d1cc42659296e35a564b42a144fb48d2f708446cab12285f67137920)
 
 ☣ [Virus Total map of Downdelph APT28 campaign against Kazakh mining sector](https://www.virustotal.com/graph/embed/g3a7d08a530f14a3190996a42ecf04d63a2773b92b03e4164853d166a9c990fb2)
 
 ☣ [Virus Total map of Gamaredon Group campaign](https://www.virustotal.com/graph/embed/gbda3c737dd0c4baca51198946e56f711cca6109212264b75a9af50efdfbc08cb)
+
+### Crimeware/eCrime campaigns:
+
+☣ [Virus Total map of FIN7 JSSLoader campaign](https://www.virustotal.com/graph/embed/gaa8bbf3d78f24573ac68c4aa5f2ce6d9984514832e5740d0bcf52b9fef5ebc08)
+
+☣ [Virus Total map of Evilnum campaign](https://www.virustotal.com/graph/embed/g69785ffc975d4092ab893a22cda9d599375b0095850c4619bb1d389ad9d6d9ad)
+
+☣ [Virus Total map of WIZARD SPIDER Trickbot campaign leveraging Subcard](https://www.virustotal.com/graph/embed/g251a9965c77e47008e21aeafa8fc4152471dd51d63e94577927304538bb39d61)
+
+☣ [Virus Total map of WIZARD SPIDER Trickbot yas1, tot6, lib6](https://www.virustotal.com/graph/embed/g7cdb83f0a5f94159b99c4670da29761f60b1a5ed5e224281baa38ba64aabd555)
+
+☣ [Virus Total map Oscorp Android botnet](https://www.virustotal.com/graph/embed/g550b9d58788047d6a500cda3c862b563b5dedc6d7a4243e4ba066582bca23497)
+
+☣ [Virus Total map of GINP Android botnet](https://www.virustotal.com/graph/embed/gfa5d4c2327f1495abac77fb017548bf1df2361b23446451abf53bc7c95406e81)
+
+☣ [Virus Total map of Meyhod Skimmer](https://www.virustotal.com/graph/embed/g5395cf9f801c419f8a1a623062dfb25d8cc2aa31f2e140ab9c38bacffa80e03c)
