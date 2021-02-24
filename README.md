@@ -61,10 +61,6 @@
 
 ☣ [Virus Total map of WIZARD SPIDER Trickbot yas1, tot6, lib6](https://www.virustotal.com/graph/embed/g7cdb83f0a5f94159b99c4670da29761f60b1a5ed5e224281baa38ba64aabd555)
 
-☣ [Virus Total map Oscorp Android botnet](https://www.virustotal.com/graph/embed/g550b9d58788047d6a500cda3c862b563b5dedc6d7a4243e4ba066582bca23497)
-
-☣ [Virus Total map of GINP Android botnet](https://www.virustotal.com/graph/embed/gfa5d4c2327f1495abac77fb017548bf1df2361b23446451abf53bc7c95406e81)
-
 ☣ [Virus Total map of Meyhod Skimmer](https://www.virustotal.com/graph/embed/g5395cf9f801c419f8a1a623062dfb25d8cc2aa31f2e140ab9c38bacffa80e03c)
 
 ☣ [Virus Total map of BazarLoader campaign against Medical and PwC](https://www.virustotal.com/graph/embed/g91679685d1cc42659296e35a564b42a144fb48d2f708446cab12285f67137920)
@@ -74,3 +70,7 @@
 ☣ [Virus Total map of FIN7/Carbanak](https://www.virustotal.com/graph/embed/g3face3ff366341dc831c3bf4fc6a367a36a4eda7a5f545efa4cd3756e432d6a4)
 
 ☣ [Virus Total map of EvilCorp samples of WastedLocker and Cobalt Strike](https://www.virustotal.com/graph/embed/g6b0bb149257146f999c3ebae05c9e69ea22fdd21b4ff4921950fffbacc992ef6)
+
+☣ [Virus Total map of Oscorp Android botnet](https://www.virustotal.com/graph/embed/g550b9d58788047d6a500cda3c862b563b5dedc6d7a4243e4ba066582bca23497)
+
+☣ [Virus Total map of GINP Android botnet](https://www.virustotal.com/graph/embed/gfa5d4c2327f1495abac77fb017548bf1df2361b23446451abf53bc7c95406e81)
