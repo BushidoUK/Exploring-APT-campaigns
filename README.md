@@ -74,3 +74,5 @@
 ☣ [Virus Total map of Oscorp Android botnet](https://www.virustotal.com/graph/embed/g550b9d58788047d6a500cda3c862b563b5dedc6d7a4243e4ba066582bca23497)
 
 ☣ [Virus Total map of GINP Android botnet](https://www.virustotal.com/graph/embed/gfa5d4c2327f1495abac77fb017548bf1df2361b23446451abf53bc7c95406e81)
+
+☣ [Virus Total map of Hydra Android botnet](https://www.virustotal.com/graph/embed/ge338f0a8e34f41c09b63cbba648f8c9302da6a913d2c431aa51e6dfde6a142e1)
