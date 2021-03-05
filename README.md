@@ -45,6 +45,8 @@
 
 ☣ [Virus Total map of Gamaredon Group campaign](https://www.virustotal.com/graph/embed/gbda3c737dd0c4baca51198946e56f711cca6109212264b75a9af50efdfbc08cb)
 
+☣ [Virus Total map UNC2452/NOBELIUM](https://www.virustotal.com/graph/embed/g92cdcc51532e43158cb3df4a616ed5b9aedadbada6cb4169811a7174426473d3)
+
 ```
 
 ```
