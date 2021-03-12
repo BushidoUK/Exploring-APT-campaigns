@@ -73,7 +73,7 @@
 
 ☣ [Virus Total map of EvilCorp samples of WastedLocker and Cobalt Strike](https://www.virustotal.com/graph/embed/g6b0bb149257146f999c3ebae05c9e69ea22fdd21b4ff4921950fffbacc992ef6)
 
-☣ [Virus Tool map of FIN8 BADHATCH backdoor](https://www.virustotal.com/graph/embed/g4f61144fd23245c588e8a5437b96213cb5e9c191e9b84d318721cf4972bdec92)
+☣ [Virus Total map of FIN8 BADHATCH backdoor](https://www.virustotal.com/graph/embed/g4f61144fd23245c588e8a5437b96213cb5e9c191e9b84d318721cf4972bdec92)
 
 ☣ [Virus Total map of Cobalt Strike Akamai themed](https://www.virustotal.com/graph/embed/g1a00236c93cd4e70a331732940df00c400d9a8ad4f8248cb84a9510e1e366d9e)
 
