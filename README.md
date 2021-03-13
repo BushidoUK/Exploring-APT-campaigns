@@ -77,6 +77,8 @@
 
 ☣ [Virus Total map of Cobalt Strike Akamai themed](https://www.virustotal.com/graph/embed/g1a00236c93cd4e70a331732940df00c400d9a8ad4f8248cb84a9510e1e366d9e)
 
+☣ [Virus Total map of SocGholish campaign](https://www.virustotal.com/graph/embed/ge58e66cfd2ec4a15841ac24025daa034a725a75770714b86b74f36d5b11825c2)
+
 ☣ [Virus Total map of Oscorp Android botnet](https://www.virustotal.com/graph/embed/g550b9d58788047d6a500cda3c862b563b5dedc6d7a4243e4ba066582bca23497)
 
 ☣ [Virus Total map of GINP Android botnet](https://www.virustotal.com/graph/embed/gfa5d4c2327f1495abac77fb017548bf1df2361b23446451abf53bc7c95406e81)
