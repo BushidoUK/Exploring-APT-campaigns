@@ -67,6 +67,8 @@
 
 ☣ [Virus Total map of BazarLoader campaign against Medical and PwC](https://www.virustotal.com/graph/embed/g91679685d1cc42659296e35a564b42a144fb48d2f708446cab12285f67137920)
 
+☣ [Virus Total map of BazarCall camppaign](https://www.virustotal.com/graph/embed/gc894ebe668de4aeea4693383689e2b39a52c8edf4b294ad6adfc0f645223a36c)
+
 ☣ [Virus Total map of ZLoader & Cobalt Strike](https://www.virustotal.com/graph/embed/gf1bc3da13d854187b01ba1b35aeac34146589cd9b9a1444b9ee5dc2eef7d5b8b)
 
 ☣ [Virus Total map of Meyhod Skimmer](https://www.virustotal.com/graph/embed/g5395cf9f801c419f8a1a623062dfb25d8cc2aa31f2e140ab9c38bacffa80e03c)
