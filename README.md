@@ -47,6 +47,8 @@
 
 ☣ [Virus Total map of UNC2452/NOBELIUM campaign](https://www.virustotal.com/graph/embed/g92cdcc51532e43158cb3df4a616ed5b9aedadbada6cb4169811a7174426473d3)
 
+☣ [Virus Total map of APTA41 (APT10)](https://www.virustotal.com/graph/embed/g572a10e57c064a1e83ee1528a9aad0eed0e21d759bfb49ad98a072869542b441)
+
 ```
 
 ```
