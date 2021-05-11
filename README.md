@@ -88,3 +88,5 @@
 ☣ [Virus Total map of GINP Android botnet](https://www.virustotal.com/graph/embed/gfa5d4c2327f1495abac77fb017548bf1df2361b23446451abf53bc7c95406e81)
 
 ☣ [Virus Total map of Hydra Android botnet](https://www.virustotal.com/graph/embed/ge338f0a8e34f41c09b63cbba648f8c9302da6a913d2c431aa51e6dfde6a142e1)
+
+☣ [Virus Total map of TeaBot Android botnet](https://www.virustotal.com/graph/embed/g1f4a641103d0421d94ba41ce3dbc136ff9263aa8655f435196d47544d55e5fc9)
