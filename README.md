@@ -91,4 +91,4 @@
 
 ☣ [Virus Total map of TeaBot Android botnet](https://www.virustotal.com/graph/embed/g1f4a641103d0421d94ba41ce3dbc136ff9263aa8655f435196d47544d55e5fc9)
 
-☣ [Virus Total map of Aviation RAT campaign](https://www.virustotal.com/graph/gf0e56520f0ab4f5f8752fd7abef3c32f5aa6df30a8da4cc0bb2fc90fdf6b1ebe)
+☣ [Virus Total map of Aviation RAT campaign](https://www.virustotal.com/graph/embed/gf0e56520f0ab4f5f8752fd7abef3c32f5aa6df30a8da4cc0bb2fc90fdf6b1ebe)
