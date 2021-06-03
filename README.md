@@ -49,6 +49,8 @@
 
 ☣ [Virus Total map of APTA41 (APT10)](https://www.virustotal.com/graph/embed/g572a10e57c064a1e83ee1528a9aad0eed0e21d759bfb49ad98a072869542b441)
 
+☣ [Virus Total map of MustangPanda](https://www.virustotal.com/graph/embed/gf2f20dc48e2049999491fa61bd4a415c65473a9a95dd472bae93a8ea150a0ef6)
+
 ```
 
 ```
