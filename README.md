@@ -57,6 +57,8 @@
 
 ### Crimeware/eCrime campaigns:
 
+☣ [Virus Total map of SolarSpider campaign](https://www.virustotal.com/graph/embed/g97053428d5314c51840d2f4e137ef7eccd1983e4bf87442b84e5f17692aba926)
+
 ☣ [Virus Total map of FIN7 JSSLoader campaign](https://www.virustotal.com/graph/embed/gaa8bbf3d78f24573ac68c4aa5f2ce6d9984514832e5740d0bcf52b9fef5ebc08)
 
 ☣ [Virus Total map of FIN7/Carbanak campaign](https://www.virustotal.com/graph/embed/gd67466763d244706a0f99212c4f92a1fa643d2c7d21a434e9d3df00d52ecc649)
