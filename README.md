@@ -51,6 +51,8 @@
 
 ☣ [Virus Total map of MustangPanda](https://www.virustotal.com/graph/embed/gf2f20dc48e2049999491fa61bd4a415c65473a9a95dd472bae93a8ea150a0ef6)
 
+☣ [Virus Total map of IndigoZebra](https://www.virustotal.com/graph/embed/gfdaf941d616f46729e8aced9607eef1175088076db0246d6846568e25c2bfaba)
+
 ```
 
 ```
