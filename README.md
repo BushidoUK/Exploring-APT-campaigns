@@ -53,6 +53,8 @@
 
 ☣ [Virus Total map of IndigoZebra](https://www.virustotal.com/graph/embed/gfdaf941d616f46729e8aced9607eef1175088076db0246d6846568e25c2bfaba)
 
+☣ [Virus Total map of BlackTech](https://www.virustotal.com/graph/embed/g7f39651f490c4b63a7778e665bf9c876a4488895111e458088e21947d5662e78)
+
 ```
 
 ```
