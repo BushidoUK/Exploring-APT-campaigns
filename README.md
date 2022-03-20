@@ -11,7 +11,7 @@
 
 ☣ [Virus Total map of Machete APT / APT-C-43 activity](https://www.virustotal.com/graph/embed/g9ba526c6cdb247bd91365943890df6ffa653cb676d7b4456af848a760ba8daa8)
 
-☣ [VirusTotal map of Lazarus, CryptoCore, LeeryTurtle IOC overlaps](https://www.virustotal.com/graph/embed/g01e56275710e4122aef7fd509cb855b90f7d43a7478042ae866b894e35be2562)
+☣ [Virus Total map of Lazarus, CryptoCore, LeeryTurtle IOC overlaps](https://www.virustotal.com/graph/embed/g01e56275710e4122aef7fd509cb855b90f7d43a7478042ae866b894e35be2562)
 
 ☣ [Virus Total map of APT17 malware campaign](https://www.virustotal.com/graph/embed/g0cfbac71aa474eabbd0167470cf3d0893ee4898f3b2c4053938d18e2ebc630a9)
 
@@ -62,6 +62,8 @@
 ```
 
 ### Crimeware/eCrime campaigns:
+
+☣️ [Virus Total map of Thai Consulate phishing campaign](https://www.virustotal.com/graph/embed/g77a9f13a302e4938850e03d3979efea256eeaeb89252435db074e53bbe0d5146)
 
 ☣ [Virus Total map of SolarSpider campaign](https://www.virustotal.com/graph/embed/g97053428d5314c51840d2f4e137ef7eccd1983e4bf87442b84e5f17692aba926)
 
